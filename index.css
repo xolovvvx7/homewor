@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.divall
+{
+    display: flex;
+    width: 1500px;
+    height: 100px;
+    margin-top: 50px;
+}
+.divsurat
+{
+    display: flex;
+    width: 300px;
+    padding-left: 100px;
+    font-size: 17px;
+}
+.divp
+{
+    width: 400px;
+    height: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-left: 90px;
+}
+.ss
+{
+    width: 300px;
+    height: 40px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: end;
+    padding: 0px 100px;
+}
+.ss h1{
+    font-size: 15px;
+    font-weight: 600;
+}
+.f2
+{
+    width: 1500px;
+    height: 600px;
+    display: flex;
+}
+.text
+{
+    width: 900px;
+    padding-left: 300px;
+
+}
+.text h1{
+    font-size: 38px;
+}
+.text p{
+    color: rgba(79, 86, 101, 1);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.r {
+    width: 1500px;
+    height: 200px; 
+    display: flex; 
+    
+}
+.t 
+{
+    width: 100px;
+    height: 100px;
+    padding-left: 20px;
+    border-right: 3px solid  rgba(238, 239, 242, 1);
+}
+.a  img{
+    padding-left: 200px;
+}
+.f3 
+{
+    width: 1500px;
+    height: 600px;
+    display: flex;
+}
+.sur1
+{
+    padding-left: 50px;
+}
+.navbar
+{
+    width: 1500px;
+    height: 300px;
+}
+.navbar h1 {
+    text-align: center;
+}
+.navbar p {
+    text-align: center;
+    margin-top: 20px;
+}
+.gh
+{
+    display: flex;
+    width: 1500px;
+    height: 900px;
+}
+.nn:hover{
+    border: 1px solid blue;
+    
+}
+.nn 
+{
+    width: 400px;
+    height: 800px;
+    border: 3px solid rgba(221, 221, 221, 1);
+    border-radius: 15px;
+    margin-left: 70px;
+}
+.nn h1 
+{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 90px;
+    margin-top: 60px;
+}
+.nn img
+{
+    padding-left: 90px;
+    margin-top: 40px;
+}
+.jjj
+{
+    width: 1300px;
+}
+.jjj img {
+    margin-left: 200px;
+}
+
+
+
+
+
+
